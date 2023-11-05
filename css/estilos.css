@@ -1,0 +1,198 @@
+body {
+    background-color: #f2f2f2;
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+}
+
+header {
+    padding: 3.5em;
+    margin-bottom: 5.5em;
+}
+
+header h1 {
+    font-family: "SF Pro", Helvetica, Arial, sans-serif;
+    font-size: 4em;
+    text-align: left;
+    float: left;
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+}
+
+header p {
+    font-family: "SF Pro Display", Helvetica, Arial, sans-serif;
+    font-size: 2em;
+    text-align: left;
+    float: right;
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+}
+
+#contenedorAppleVisionPro {
+    background-color: black;
+    width: 100%;
+}
+
+#appleVisionPro {
+    width: 70%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#menu ul {
+    text-align: center;
+    background-color: black;
+    margin: 0px;
+    border: 0px;
+    padding-bottom: 3em;
+}
+
+#menu li {
+    font-family: "SF Pro Display", Helvetica, Arial, sans-serif;
+    display: inline;
+    margin: 1.5em;
+    background-color: black;
+}
+
+
+#menu a {
+    text-decoration: none;
+    font-size: 2em;
+    color: white;
+}
+
+.contenedor {
+    width: 100%;
+    margin: 0 auto;
+    border: 0px;
+    padding: 0px;
+    justify-content: space-around;
+}
+
+.caja {
+    background-color: white;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 1.5em;
+    border: 1em;
+    padding: 3em;
+}
+
+.caja h2 {
+    font-family: "SF Pro Display", Helvetica, Arial, sans-serif;
+    font-size: 3em;
+    text-align: center;
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+}
+
+.caja p {
+    font-family: "SF Pro Display", Helvetica, Arial, sans-serif;
+    text-align: left;
+    font-size: 2em;
+    margin: 1em;
+}
+
+.caja img {
+    width: 80%;
+}
+
+#cajaImagen {
+    padding-bottom: 0px;
+}
+
+#imagenes {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#imagenes img {
+    width: 45%;
+    margin: 0px;
+    border: 0px;
+    padding: 1.5em;
+}
+
+.tablaResumen {
+    border-collapse: separate;
+    border-spacing: 1em;
+    width: 100%;
+}
+
+.tablaResumen th {
+    text-align: center;
+    vertical-align: middle;
+    padding: 1em;
+}
+
+.tablaResumen p {
+    font-family: "SF Pro Display", Helvetica, Arial, sans-serif;
+    font-size: 4em;
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+    text-align: center;
+}
+
+.tablaResumen td {
+    text-align: center;
+    vertical-align: middle;
+    padding: 1em;
+}
+
+.textoResumen {
+    font-family: "SF Pro Display", Helvetica, Arial, sans-serif;
+    font-size: 1em;
+    text-align: center;
+    margin-top: 2em;
+    margin-bottom: 0px;
+    border: 0px;
+    padding: 0px;
+}
+
+#caracteristicas h2 {
+    font-family: "SF Pro Display", Helvetica, Arial, sans-serif;
+    font-size: 3em;
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 1em;
+    border: 0px;
+    padding-top: 1em;
+}
+
+.especificaciones {
+    border-collapse: collapse;
+}
+
+.especificaciones th {
+    font-family: "SF Pro Display", Helvetica, Arial, sans-serif;
+    font-size: 2em;
+    text-align: left;
+    margin: 0px;
+    border: 0px;
+    padding: 1em;
+}
+
+.especificaciones td {
+    font-family: "SF Pro Display", Helvetica, Arial, sans-serif;
+    font-size: 1em;
+    text-align: left;
+    margin: 0px;
+    border: 0px;
+    padding: 2em;
+    border-top: 2px solid #a1a1a2;
+}
+
+footer {
+    font-family: "SF Pro Display", Helvetica, Arial, sans-serif;
+    font-size: 1em;
+    text-align: center;
+    background-color: white;
+    padding: 1em;
+}
